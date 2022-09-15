@@ -1,0 +1,48 @@
+ body ,#root,html,.room {
+  text-align: center;
+  height: 100%;
+   margin: 0; 
+   background-color: white;
+}
+
+p{
+  margin-top: 130px;
+  font-size: 20px;
+}
+.green{
+  color: rgb(76, 122, 76);
+  font-size: 35px;
+  padding: 5px 30px 5px 30px;
+}
+.green:hover{
+  box-shadow: 1px 1px 4px 2px rgb(76, 122, 76);
+}
+.red{
+  color: rgb(237, 72, 72);
+  font-size: 35px;
+  padding: 5px 20px 5px 20px;
+}
+.red:hover{
+  box-shadow: 1px 1px 4px 2px rgb(237, 72, 72); 
+}
+button{
+
+ border-radius: 200px; 
+ margin: 10px;
+}
+.temp{
+  color: rgb(45, 32, 60);
+  font-size: 25px;
+}
+.true {
+  background-color: white;
+}
+.false{
+  background-color: rgb(45, 32, 60);
+}
+Room{
+  background-color: black;
+}
+p{
+  color: aliceblue;
+}
